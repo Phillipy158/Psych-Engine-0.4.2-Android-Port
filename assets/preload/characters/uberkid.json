@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "UberKidIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "UberKidI2dlePISSED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "UberKidsLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "UberKidRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "UberKidDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UberKidUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "UberKidTaunt"
+		},
+		{
+			"offsets": [
+				340,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7
+			],
+			"name": "UberKidReaction"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Uberkid",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "uberkid",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		95,
+		168
+	],
+	"camera_position": [
+		-200,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
