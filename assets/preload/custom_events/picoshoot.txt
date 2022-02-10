@@ -1,0 +1,1 @@
+plays a shooting anim for pico

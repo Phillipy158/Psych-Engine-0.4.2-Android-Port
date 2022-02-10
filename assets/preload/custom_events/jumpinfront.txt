@@ -1,0 +1,3 @@
+makes uberkid jump in on front left/right
+
+value1: 1 is left, 2 is right

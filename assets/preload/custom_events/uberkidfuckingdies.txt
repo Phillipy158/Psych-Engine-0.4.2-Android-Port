@@ -1,0 +1,4 @@
+The opponent Uberkid gets shot and dragged off screen.
+
+Value 1: If Uberkid returns(true/false).
+Value 2: IF VALUE 1 IS TRUE and this is true, uber kid comes back without dying(used for after breakdance and bus)

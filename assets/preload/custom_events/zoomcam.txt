@@ -1,0 +1,4 @@
+tweens defaultcamzoom to new value
+
+value1: new value
+value2: tween length
